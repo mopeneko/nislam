@@ -1,0 +1,18 @@
+{
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "bootstrap": "4.3",
+    "jquery": "^1.11.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.1.1",
+    "cssnano": "^5.0.15",
+    "parcel": "^2.1.1",
+    "postcss": "^8.4.5",
+    "sass": "^1.47.0"
+  }
+}
